@@ -9,5 +9,8 @@ public class TestStudent {
        double x = ivan.getAverage(2);
         System.out.println(x);
 
+
+        -
+
     }
 }
